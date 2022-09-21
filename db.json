@@ -1,7 +1,5 @@
 {
-    "name": "BeJson",
     "numbers":[1,2,3],
-    "url": "http://www.bejson.com",
     "page": 88,
     "isNonProfit": true,
     "address": {
